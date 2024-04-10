@@ -1,0 +1,50 @@
+body {
+    background-color: rgba(42, 0, 51, 0.829);
+}
+
+div {
+    background-color: rgba(34, 0, 34, 0.521);
+}
+
+* {
+    color: white;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#introduccion{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.introduccion {
+    width: 50%;
+}
+#canciones {
+    border-radius: 10px;
+    margin: 0px 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.link {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: red;
+    font-size: 15px;
+}
+
+.h3 {
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
